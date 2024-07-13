@@ -1,0 +1,94 @@
+[
+    {
+      "id":1,
+        "product":"Fancy product",
+        "price":"40.00-$80.00",
+        "isPrice":true,
+        "offer":"",
+        "isOffer":false,
+        "sale":false,
+        "rating":false,
+        "cartbutton":"View Options"
+
+    },
+
+    {
+      "id":2,
+        "product":"special Item",
+        "price":"20.00",
+        "isPrice":false,
+        "offer":"18",
+        "isOffer":true,
+        "sale":true,
+        "rating":true,
+        "cartbutton":"Add to cart"
+      },
+      {
+        "id":3,
+       "product":"Sale Item",
+       "price":"50.00",
+        "isPrice":false,
+        "offer":"25",
+        "isOffer":true,
+        "sale":true,
+        "rating":false,
+        "cartbutton":"Add to cart"
+      },
+      {
+        "id":4,
+       "product":"Popular item",
+       "price":"40.00",
+        "isPrice":true,
+        "offer":"",
+        "isOffer":false,
+        "sale":false,
+        "rating":true,
+        "cartbutton":"Add to cart"
+      },
+      {
+        "id":4,
+       "product":"Sale Item",
+       "price":"50.00",
+        "isPrice":false,
+        "offer":"25",
+        "isOffer":true,
+        "sale":true,
+        "rating":false,
+        "cartbutton":"Add to cart"
+      },
+      {
+        "id":5,
+       "product":"Fancy product",
+       "price":"120.00-$280.00",
+        "isPrice":true,
+        "offer":"",
+        "isOffer":false,
+        "sale":false,
+        "rating":false,
+        "cartbutton":"View Options"
+      },
+      {
+        "id":6,
+        "product":"Special Item",
+        "price":"20.00",
+        "isPrice":false,
+        "offer":"18",
+        "isOffer":true,
+        "sale":true,
+        "rating":true,
+        "cartbutton":"Add to cart"
+      },
+      {
+        "id":7,
+        "product":"Popular Item",
+        "price":"40.00",
+        "isPrice":true,
+        "offer":"",
+        "isOffer":false,
+        "sale":false,
+        "rating":true,
+        "cartbutton":"Add to cart"
+      }
+
+]
+
